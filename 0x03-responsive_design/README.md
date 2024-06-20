@@ -1,0 +1,2 @@
+# 0x03. Responsive design
+This project is about creating a responsive design for a website using HTML, CSS, and media queries.
